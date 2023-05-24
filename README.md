@@ -1,4 +1,4 @@
- [![MasterHead](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+ [![MasterHead](https://images.pexels.com/photos/2764993/pexels-photo-2764993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 <h1 align="center">Hi 👋, I'm Ercan Bayraktar</h1>
 <h3 align="center">A passionate SDET(QA) from Turkey</h3>
