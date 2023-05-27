@@ -1,4 +1,4 @@
- [![MasterHead](https://st.depositphotos.com/9999814/54404/i/600/depositphotos_544049924-stock-photo-qa-quality-assurance-and-quality.jpg)
+ ![MasterHead](https://st.depositphotos.com/9999814/54404/i/600/depositphotos_544049924-stock-photo-qa-quality-assurance-and-quality.jpg)
 
 <h1 align="center">Hi 👋, I'm Ercan Bayraktar</h1>
 <h3 align="center">A passionate SDET(QA) from Turkey</h3>
