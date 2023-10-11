@@ -1,7 +1,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%237BD5C5&title_bg=%23555555&icon=poly.svg&icon_color=%233663B7&title=hits&edge_flat=false" align="right"/></a>
 <br>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
-<img src="https://komarev.com/ghpvc/?username=ercanbyrktr&&style=plastics&&color=yellow" align="right"/> </p>
+<!-- <img src="https://komarev.com/ghpvc/?username=ercanbyrktr&&style=plastics&&color=yellow" align="right"/> </p> ->
 
 <!-- <h2 align="center"> -->
 <!-- </h2>  -->
